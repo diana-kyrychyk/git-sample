@@ -3,3 +3,4 @@ Hello Diana and Dima
 My change
 Hello first change
 Hello firstMergecommit
+Hello thirdMergecommit
